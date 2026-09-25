@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mashkoor098.github.io/mashkoor-patel-portfolio/sitemap.xml
